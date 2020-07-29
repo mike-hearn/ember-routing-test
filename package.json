@@ -56,5 +56,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "cypress": "^4.11.0"
   }
 }
